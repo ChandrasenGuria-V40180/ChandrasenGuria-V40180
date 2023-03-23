@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChandrasenGuria-V40180
-- 👀 I’m interested in ...coding
+- 👀 I’m interested in ...looking at and understanding coding
 - 🌱 I’m currently learning ...Java, Angular, Perl, Python and R
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...just ping!
